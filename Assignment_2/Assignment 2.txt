@@ -1,3 +1,5 @@
+CREATING A LEXICAL ANALYZER USING TRANSITION DIAGRAMS FOR TOKENS
+===================================================================================
 Assignment 2--
 Implement a lexical analyzer for the following types of tokens
   a) Arithmetic, Relational, Logical, Bitwise and Assignment Operators of C.
