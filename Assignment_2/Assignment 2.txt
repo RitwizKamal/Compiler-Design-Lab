@@ -1,0 +1,9 @@
+Assignment 2--
+Implement a lexical analyzer for the following types of tokens
+  a) Arithmetic, Relational, Logical, Bitwise and Assignment Operators of C.
+  b) Reserved wordsint, float,char, for, while, if, else etc.
+  c) Identifier.
+  d) Integer Constants.
+  e) Parentheses, Curlybraces
+
+Follow the ideas of transition diagram, yytext, yyleng, etc. as discussed in the class.
