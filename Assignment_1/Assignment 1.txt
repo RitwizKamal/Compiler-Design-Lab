@@ -1,3 +1,5 @@
+CREATING A LEXICAL ANALYZER USING STRING TOKEN COMPARISONS
+====================================================================
 Consider the following assignment for Lexical Analysis:
 Assignment 1:--
 Implement a lexical analyzer for the following types of tokens:
