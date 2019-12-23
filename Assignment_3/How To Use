@@ -1,0 +1,16 @@
+Step 1:
+(If Lex/Flex has not been installed already)
+Install Bison Flex => 
+$sudo apt-get install bison flex
+
+Step 2:
+$lex test.l
+(This generates lex.yy.c)
+
+Step 3:
+(Compile lex.yy.c)
+$gcc lex.yy.c -ll
+
+Step 4:
+(Run)
+$./a.out
